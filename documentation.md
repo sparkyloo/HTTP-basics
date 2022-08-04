@@ -90,9 +90,10 @@ Request components:
 - Body: none
 
 Response components:
-- Status code:
-- Headers:
-- Body:
+- Status code: 200
+- Headers: text/html
+- Body: html form / changes header
+
 
 ### Submit a new product
 
