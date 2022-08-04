@@ -48,10 +48,10 @@ Response components:
 ### Ask for the products list page
 
 Request components:
-- Method:
-- URL:
-- Headers:
-- Body:
+- Method: GET
+- URL: /products
+- Headers: none
+- Body: none
 
 Response components:
 - Status code:
