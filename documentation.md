@@ -77,17 +77,17 @@ Request components:
 - Body:none
 
 Response components:
-- Status code:
-- Headers:
-- Body:
+- Status code: 200
+- Headers: text/html
+- Body:  html
 
 ### Ask for the create new product page
 
 Request components:
-- Method:
-- URL:
-- Headers:
-- Body:
+- Method: GET
+- URL: /products/new
+- Headers: none
+- Body: none
 
 Response components:
 - Status code:
