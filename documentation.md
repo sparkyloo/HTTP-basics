@@ -54,9 +54,9 @@ Request components:
 - Body: none
 
 Response components:
-- Status code:
-- Headers:
-- Body:
+- Status code: 200
+- Headers: text/html
+- Body: html page with products
 
 ### Ask for the product detail page
 
